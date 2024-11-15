@@ -1,0 +1,29 @@
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsFormsBiblioteca\bin\Debug\CursoWindowsFormsBiblioteca.dll
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsFormsBiblioteca\bin\Debug\CursoWindowsFormsBiblioteca.pdb
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsFormsBiblioteca\obj\Debug\CursoWindowsFormsBiblioteca.dll
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsFormsBiblioteca\obj\Debug\CursoWindowsFormsBiblioteca.pdb
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsFormsBiblioteca\obj\Debug\CursoWindowsFormsBiblioteca.csprojAssemblyReference.cache
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsFormsBiblioteca\bin\Debug\Newtonsoft.Json.dll
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsFormsBiblioteca\bin\Debug\Newtonsoft.Json.xml
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsFormsBiblioteca\obj\Debug\CursoWindowsFormsBiblioteca.csproj.CopyComplete
+C:\Users\sup-not-26\OneDrive\# WORKING\Alura\modulo_5\final\CursoWindowsFormsBiblioteca\bin\Debug\CursoWindowsFormsBiblioteca.dll
+C:\Users\sup-not-26\OneDrive\# WORKING\Alura\modulo_5\final\CursoWindowsFormsBiblioteca\bin\Debug\CursoWindowsFormsBiblioteca.pdb
+C:\Users\sup-not-26\OneDrive\# WORKING\Alura\modulo_5\final\CursoWindowsFormsBiblioteca\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sup-not-26\OneDrive\# WORKING\Alura\modulo_5\final\CursoWindowsFormsBiblioteca\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sup-not-26\OneDrive\# WORKING\Alura\modulo_5\final\CursoWindowsFormsBiblioteca\obj\Debug\CursoWindowsFormsBiblioteca.csproj.AssemblyReference.cache
+C:\Users\sup-not-26\OneDrive\# WORKING\Alura\modulo_5\final\CursoWindowsFormsBiblioteca\obj\Debug\CursoWindowsFormsBiblioteca.csproj.CoreCompileInputs.cache
+C:\Users\sup-not-26\OneDrive\# WORKING\Alura\modulo_5\final\CursoWindowsFormsBiblioteca\obj\Debug\CursoWin.DDC1B638.Up2Date
+C:\Users\sup-not-26\OneDrive\# WORKING\Alura\modulo_5\final\CursoWindowsFormsBiblioteca\obj\Debug\CursoWindowsFormsBiblioteca.dll
+C:\Users\sup-not-26\OneDrive\# WORKING\Alura\modulo_5\final\CursoWindowsFormsBiblioteca\obj\Debug\CursoWindowsFormsBiblioteca.pdb
+C:\Users\sup-not-26\OneDrive\# WORKING\Alura\modulo_6\segunda_parte\CursoWindowsFormsBiblioteca\bin\Debug\Databases\Fichario.mdf
+C:\Users\sup-not-26\OneDrive\# WORKING\Alura\modulo_6\segunda_parte\CursoWindowsFormsBiblioteca\bin\Debug\Databases\Fichario_log.ldf
+C:\Users\sup-not-26\OneDrive\# WORKING\Alura\modulo_6\segunda_parte\CursoWindowsFormsBiblioteca\bin\Debug\CursoWindowsFormsBiblioteca.dll.config
+C:\Users\sup-not-26\OneDrive\# WORKING\Alura\modulo_6\segunda_parte\CursoWindowsFormsBiblioteca\bin\Debug\CursoWindowsFormsBiblioteca.dll
+C:\Users\sup-not-26\OneDrive\# WORKING\Alura\modulo_6\segunda_parte\CursoWindowsFormsBiblioteca\bin\Debug\CursoWindowsFormsBiblioteca.pdb
+C:\Users\sup-not-26\OneDrive\# WORKING\Alura\modulo_6\segunda_parte\CursoWindowsFormsBiblioteca\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sup-not-26\OneDrive\# WORKING\Alura\modulo_6\segunda_parte\CursoWindowsFormsBiblioteca\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sup-not-26\OneDrive\# WORKING\Alura\modulo_6\segunda_parte\CursoWindowsFormsBiblioteca\obj\Debug\CursoWindowsFormsBiblioteca.csproj.AssemblyReference.cache
+C:\Users\sup-not-26\OneDrive\# WORKING\Alura\modulo_6\segunda_parte\CursoWindowsFormsBiblioteca\obj\Debug\CursoWindowsFormsBiblioteca.csproj.CoreCompileInputs.cache
+C:\Users\sup-not-26\OneDrive\# WORKING\Alura\modulo_6\segunda_parte\CursoWindowsFormsBiblioteca\obj\Debug\CursoWin.DDC1B638.Up2Date
+C:\Users\sup-not-26\OneDrive\# WORKING\Alura\modulo_6\segunda_parte\CursoWindowsFormsBiblioteca\obj\Debug\CursoWindowsFormsBiblioteca.dll
+C:\Users\sup-not-26\OneDrive\# WORKING\Alura\modulo_6\segunda_parte\CursoWindowsFormsBiblioteca\obj\Debug\CursoWindowsFormsBiblioteca.pdb
