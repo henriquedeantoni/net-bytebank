@@ -75,3 +75,34 @@ C:\Users\sup-not-26\OneDrive\# WORKING\Alura\modulo_6\segunda_parte\CursoWindows
 C:\Users\sup-not-26\OneDrive\# WORKING\Alura\modulo_6\segunda_parte\CursoWindowsForms\obj\Debug\CursoWin.97526E0B.Up2Date
 C:\Users\sup-not-26\OneDrive\# WORKING\Alura\modulo_6\segunda_parte\CursoWindowsForms\obj\Debug\CursoWindowsForms.exe
 C:\Users\sup-not-26\OneDrive\# WORKING\Alura\modulo_6\segunda_parte\CursoWindowsForms\obj\Debug\CursoWindowsForms.pdb
+C:\Users\Henrique\Documents\CursoNET\Alura\Forms\CursoWinForms\Modulo6\final\CursoWindowsForms\obj\Debug\CursoWindowsForms.csproj.AssemblyReference.cache
+C:\Users\Henrique\Documents\CursoNET\Alura\Forms\CursoWinForms\Modulo6\final\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_DemonstracaoKey.resources
+C:\Users\Henrique\Documents\CursoNET\Alura\Forms\CursoWinForms\Modulo6\final\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_HelloWorld.resources
+C:\Users\Henrique\Documents\CursoNET\Alura\Forms\CursoWinForms\Modulo6\final\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_Mascara.resources
+C:\Users\Henrique\Documents\CursoNET\Alura\Forms\CursoWinForms\Modulo6\final\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_ArquivoImagem_UC.resources
+C:\Users\Henrique\Documents\CursoNET\Alura\Forms\CursoWinForms\Modulo6\final\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_DemostracaoKey_UC.resources
+C:\Users\Henrique\Documents\CursoNET\Alura\Forms\CursoWinForms\Modulo6\final\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_HelloWorld_UC.resources
+C:\Users\Henrique\Documents\CursoNET\Alura\Forms\CursoWinForms\Modulo6\final\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_Login.resources
+C:\Users\Henrique\Documents\CursoNET\Alura\Forms\CursoWinForms\Modulo6\final\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_Mascara_UC.resources
+C:\Users\Henrique\Documents\CursoNET\Alura\Forms\CursoWinForms\Modulo6\final\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_CadastroCliente_UC.resources
+C:\Users\Henrique\Documents\CursoNET\Alura\Forms\CursoWinForms\Modulo6\final\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_Menu_Flutuante.resources
+C:\Users\Henrique\Documents\CursoNET\Alura\Forms\CursoWinForms\Modulo6\final\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_MouseCaptura.resources
+C:\Users\Henrique\Documents\CursoNET\Alura\Forms\CursoWinForms\Modulo6\final\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_MouseCursor.resources
+C:\Users\Henrique\Documents\CursoNET\Alura\Forms\CursoWinForms\Modulo6\final\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_MouseEventos.resources
+C:\Users\Henrique\Documents\CursoNET\Alura\Forms\CursoWinForms\Modulo6\final\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_Busca.resources
+C:\Users\Henrique\Documents\CursoNET\Alura\Forms\CursoWinForms\Modulo6\final\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_Principal.resources
+C:\Users\Henrique\Documents\CursoNET\Alura\Forms\CursoWinForms\Modulo6\final\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_ValidaCPF.resources
+C:\Users\Henrique\Documents\CursoNET\Alura\Forms\CursoWinForms\Modulo6\final\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_ValidaCPF2.resources
+C:\Users\Henrique\Documents\CursoNET\Alura\Forms\CursoWinForms\Modulo6\final\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_ValidaSenha.resources
+C:\Users\Henrique\Documents\CursoNET\Alura\Forms\CursoWinForms\Modulo6\final\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_Principal_Menu.resources
+C:\Users\Henrique\Documents\CursoNET\Alura\Forms\CursoWinForms\Modulo6\final\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_Principal_Menu_MDI.resources
+C:\Users\Henrique\Documents\CursoNET\Alura\Forms\CursoWinForms\Modulo6\final\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_Principal_Menu_UC.resources
+C:\Users\Henrique\Documents\CursoNET\Alura\Forms\CursoWinForms\Modulo6\final\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_Questao.resources
+C:\Users\Henrique\Documents\CursoNET\Alura\Forms\CursoWinForms\Modulo6\final\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_ValidaCPF_UC.resources
+C:\Users\Henrique\Documents\CursoNET\Alura\Forms\CursoWinForms\Modulo6\final\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_ValidaCPF2_UC.resources
+C:\Users\Henrique\Documents\CursoNET\Alura\Forms\CursoWinForms\Modulo6\final\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_ValidaSenha_UC.resources
+C:\Users\Henrique\Documents\CursoNET\Alura\Forms\CursoWinForms\Modulo6\final\CursoWindowsForms\obj\Debug\CursoWindowsForms.Properties.Resources.resources
+C:\Users\Henrique\Documents\CursoNET\Alura\Forms\CursoWinForms\Modulo6\final\CursoWindowsForms\obj\Debug\CursoWindowsForms.csproj.GenerateResource.cache
+C:\Users\Henrique\Documents\CursoNET\Alura\Forms\CursoWinForms\Modulo6\final\CursoWindowsForms\obj\Debug\CursoWindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\Henrique\Documents\CursoNET\Alura\Forms\CursoWinForms\Modulo6\final\CursoWindowsForms\obj\Debug\CursoWindowsForms.exe
+C:\Users\Henrique\Documents\CursoNET\Alura\Forms\CursoWinForms\Modulo6\final\CursoWindowsForms\obj\Debug\CursoWindowsForms.pdb

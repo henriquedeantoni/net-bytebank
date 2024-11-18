@@ -27,3 +27,7 @@ C:\Users\sup-not-26\OneDrive\# WORKING\Alura\modulo_6\segunda_parte\CursoWindows
 C:\Users\sup-not-26\OneDrive\# WORKING\Alura\modulo_6\segunda_parte\CursoWindowsFormsBiblioteca\obj\Debug\CursoWin.DDC1B638.Up2Date
 C:\Users\sup-not-26\OneDrive\# WORKING\Alura\modulo_6\segunda_parte\CursoWindowsFormsBiblioteca\obj\Debug\CursoWindowsFormsBiblioteca.dll
 C:\Users\sup-not-26\OneDrive\# WORKING\Alura\modulo_6\segunda_parte\CursoWindowsFormsBiblioteca\obj\Debug\CursoWindowsFormsBiblioteca.pdb
+C:\Users\Henrique\Documents\CursoNET\Alura\Forms\CursoWinForms\Modulo6\final\CursoWindowsFormsBiblioteca\obj\Debug\CursoWindowsFormsBiblioteca.csproj.AssemblyReference.cache
+C:\Users\Henrique\Documents\CursoNET\Alura\Forms\CursoWinForms\Modulo6\final\CursoWindowsFormsBiblioteca\obj\Debug\CursoWindowsFormsBiblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Henrique\Documents\CursoNET\Alura\Forms\CursoWinForms\Modulo6\final\CursoWindowsFormsBiblioteca\obj\Debug\CursoWindowsFormsBiblioteca.dll
+C:\Users\Henrique\Documents\CursoNET\Alura\Forms\CursoWinForms\Modulo6\final\CursoWindowsFormsBiblioteca\obj\Debug\CursoWindowsFormsBiblioteca.pdb
