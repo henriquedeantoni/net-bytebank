@@ -201,7 +201,7 @@ namespace CursoWindowsFormsBiblioteca.Classes
 
             #endregion
 
-            #region CRUD do FicharioDBDB Local DB
+            #region CRUD do Fichario Local DB
 
             public void IncluirFicharioDB(string Conexao)
             {
@@ -271,6 +271,37 @@ namespace CursoWindowsFormsBiblioteca.Classes
 
                     throw new Exception(F.mensagem);
                 }
+            }
+
+            public List<List<string>> BuscarFicharioDBTodosDB(string conexao)
+            {
+                FicharioDB F = new FicharioDB(conexao);
+                if (F.status)
+                {
+                    List<string> List = new List<string>();
+                    List = F.BuscarTodos();
+                    if(F.status)
+                    {
+                        List<List<string>> ListaBusca = new List<List<string>>();
+                        for(int i = 0; i < ListaBusca.Count-1; i++)
+                        {
+                            Cliente.Unit C = Cliente.DesSerializedClassUnit(List[i]);
+                            ListaBusca.Add(new List<string> { C.Id, C.Nome });
+                        }
+                        return ListaBusca;
+                    }
+                    else
+                    {
+
+                        throw new Exception(F.mensagem);
+                    }
+                }
+                else
+                {
+
+                    throw new Exception(F.mensagem);
+                }
+
             }
 
             public List<string> ListaFicharioDB(string conexao)
