@@ -64,6 +64,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ByteBankDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ByteBankDataSet1.xsd</DependentUpon>
+    </Compile>
     <Compile Include="Classes\Cep.cs" />
     <Compile Include="Classes\Cliente.cs" />
     <Compile Include="Cls_Uteis.cs" />
@@ -80,7 +85,20 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <None Include="app.config" />
+    <None Include="app.config">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="ByteBankDataSet1.xsc">
+      <DependentUpon>ByteBankDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="ByteBankDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ByteBankDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ByteBankDataSet1.xss">
+      <DependentUpon>ByteBankDataSet1.xsd</DependentUpon>
+    </None>
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>

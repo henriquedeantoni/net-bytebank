@@ -31,3 +31,14 @@ C:\Users\Henrique\Documents\CursoNET\Alura\Forms\CursoWinForms\Modulo6\final\Cur
 C:\Users\Henrique\Documents\CursoNET\Alura\Forms\CursoWinForms\Modulo6\final\CursoWindowsFormsBiblioteca\obj\Debug\CursoWindowsFormsBiblioteca.csproj.CoreCompileInputs.cache
 C:\Users\Henrique\Documents\CursoNET\Alura\Forms\CursoWinForms\Modulo6\final\CursoWindowsFormsBiblioteca\obj\Debug\CursoWindowsFormsBiblioteca.dll
 C:\Users\Henrique\Documents\CursoNET\Alura\Forms\CursoWinForms\Modulo6\final\CursoWindowsFormsBiblioteca\obj\Debug\CursoWindowsFormsBiblioteca.pdb
+C:\Users\Henrique\Documents\CursoNET\Alura\Forms\CursoWinForms\Modulo6\final\CursoWindowsFormsBiblioteca\bin\Debug\Databases\Fichario.mdf
+C:\Users\Henrique\Documents\CursoNET\Alura\Forms\CursoWinForms\Modulo6\final\CursoWindowsFormsBiblioteca\bin\Debug\Databases\Fichario_log.ldf
+C:\Users\Henrique\Documents\CursoNET\Alura\Forms\CursoWinForms\Modulo6\final\CursoWindowsFormsBiblioteca\bin\Debug\CursoWindowsFormsBiblioteca.dll.config
+C:\Users\Henrique\Documents\CursoNET\Alura\Forms\CursoWinForms\Modulo6\final\CursoWindowsFormsBiblioteca\bin\Debug\CursoWindowsFormsBiblioteca.dll
+C:\Users\Henrique\Documents\CursoNET\Alura\Forms\CursoWinForms\Modulo6\final\CursoWindowsFormsBiblioteca\bin\Debug\CursoWindowsFormsBiblioteca.pdb
+C:\Users\Henrique\Documents\CursoNET\Alura\Forms\CursoWinForms\Modulo6\final\CursoWindowsFormsBiblioteca\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Henrique\Documents\CursoNET\Alura\Forms\CursoWinForms\Modulo6\final\CursoWindowsFormsBiblioteca\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Henrique\Documents\CursoNET\Alura\Forms\CursoWinForms\Modulo6\final\CursoWindowsFormsBiblioteca\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Henrique\Documents\CursoNET\Alura\Forms\CursoWinForms\Modulo6\final\CursoWindowsFormsBiblioteca\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Henrique\Documents\CursoNET\Alura\Forms\CursoWinForms\Modulo6\final\CursoWindowsFormsBiblioteca\obj\Debug\CursoWin.DDC1B638.Up2Date
+C:\Users\Henrique\Documents\CursoNET\Alura\Forms\CursoWinForms\Modulo6\final\CursoWindowsFormsBiblioteca\bin\Debug\app.config
