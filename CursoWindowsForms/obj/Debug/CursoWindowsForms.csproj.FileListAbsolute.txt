@@ -106,3 +106,15 @@ C:\Users\Henrique\Documents\CursoNET\Alura\Forms\CursoWinForms\Modulo6\final\Cur
 C:\Users\Henrique\Documents\CursoNET\Alura\Forms\CursoWinForms\Modulo6\final\CursoWindowsForms\obj\Debug\CursoWindowsForms.csproj.CoreCompileInputs.cache
 C:\Users\Henrique\Documents\CursoNET\Alura\Forms\CursoWinForms\Modulo6\final\CursoWindowsForms\obj\Debug\CursoWindowsForms.exe
 C:\Users\Henrique\Documents\CursoNET\Alura\Forms\CursoWinForms\Modulo6\final\CursoWindowsForms\obj\Debug\CursoWindowsForms.pdb
+C:\Users\Henrique\Documents\CursoNET\Alura\Forms\CursoWinForms\Modulo6\final\CursoWindowsForms\bin\Debug\Databases\Fichario.mdf
+C:\Users\Henrique\Documents\CursoNET\Alura\Forms\CursoWinForms\Modulo6\final\CursoWindowsForms\bin\Debug\Databases\Fichario_log.ldf
+C:\Users\Henrique\Documents\CursoNET\Alura\Forms\CursoWinForms\Modulo6\final\CursoWindowsForms\bin\Debug\CursoWindowsForms.exe.config
+C:\Users\Henrique\Documents\CursoNET\Alura\Forms\CursoWinForms\Modulo6\final\CursoWindowsForms\bin\Debug\CursoWindowsForms.exe
+C:\Users\Henrique\Documents\CursoNET\Alura\Forms\CursoWinForms\Modulo6\final\CursoWindowsForms\bin\Debug\CursoWindowsForms.pdb
+C:\Users\Henrique\Documents\CursoNET\Alura\Forms\CursoWinForms\Modulo6\final\CursoWindowsForms\bin\Debug\CursoWindowsFormsBiblioteca.dll
+C:\Users\Henrique\Documents\CursoNET\Alura\Forms\CursoWinForms\Modulo6\final\CursoWindowsForms\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Henrique\Documents\CursoNET\Alura\Forms\CursoWinForms\Modulo6\final\CursoWindowsForms\bin\Debug\CursoWindowsFormsBiblioteca.pdb
+C:\Users\Henrique\Documents\CursoNET\Alura\Forms\CursoWinForms\Modulo6\final\CursoWindowsForms\bin\Debug\CursoWindowsFormsBiblioteca.dll.config
+C:\Users\Henrique\Documents\CursoNET\Alura\Forms\CursoWinForms\Modulo6\final\CursoWindowsForms\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Henrique\Documents\CursoNET\Alura\Forms\CursoWinForms\Modulo6\final\CursoWindowsForms\obj\Debug\CursoWin.97526E0B.Up2Date
+C:\Users\Henrique\Documents\CursoNET\Alura\Forms\CursoWinForms\Modulo6\final\CursoWindowsForms\bin\Debug\app.config
