@@ -127,7 +127,8 @@ namespace CursoWindowsForms
                 C = LeituraFormulario();
                 C.ValidaClasse();
                 C.ValidaComplemento();
-                C.IncluirFicharioDB("Cliente");
+                C.IncluirFicharioSQL("Cliente");
+                //C.IncluirFicharioDB("Cliente");
                 //C.IncluirFichario("C:\\Users\\sup-not-26\\OneDrive\\# WORKING\\Alura\\modulo_6\\inicial\\Fichario");
                 MessageBox.Show("OK: Identificador incluido com sucesso", "ByteBank", MessageBoxButtons.OK, MessageBoxIcon.Information);
             }
@@ -153,7 +154,8 @@ namespace CursoWindowsForms
                 {
                     Cliente.Unit C = new Cliente.Unit();
                     //C = C.BuscarFichario(Txt_Codigo.Text, "C:\\Users\\sup-not-26\\OneDrive\\# WORKING\\Alura\\modulo_6\\inicial\\Fichario");
-                    C = C.BuscarFicharioDB(Txt_Codigo.Text, "Cliente");
+                    //C = C.BuscarFicharioDB(Txt_Codigo.Text, "Cliente");
+                    C = C.BuscarFicharioSQL(Txt_Codigo.Text, "Cliente");
                     if(C == null)
                     {
                         MessageBox.Show("Identificador nãop encontrado", "ByteBank", MessageBoxButtons.OK, MessageBoxIcon.Error);
@@ -204,7 +206,8 @@ namespace CursoWindowsForms
                     C.ValidaClasse();
                     C.ValidaComplemento();
                     //C.AlterarFichario("C:\\Users\\sup-not-26\\OneDrive\\# WORKING\\Alura\\modulo_6\\inicial\\Fichario");
-                    C.AlterarFicharioDB("Cliente");
+                    //C.AlterarFicharioDB("Cliente");
+                    C.AlterarFicharioSQL("Cliente");
                     MessageBox.Show("OK: Identificador alterado com sucesso", "ByteBank", MessageBoxButtons.OK, MessageBoxIcon.Information);
                     /*
                     string clienteJson = Cliente.SerializedClassUnit(C);
@@ -254,7 +257,8 @@ namespace CursoWindowsForms
                 {
                     Cliente.Unit C = new Cliente.Unit();
                     //C = C.BuscarFichario(Txt_Codigo.Text, "C:\\Users\\sup-not-26\\OneDrive\\# WORKING\\Alura\\modulo_6\\inicial\\Fichario");
-                    C = C.BuscarFicharioDB(Txt_Codigo.Text, "Cliente");
+                    //C = C.BuscarFicharioDB(Txt_Codigo.Text, "Cliente");
+                    C = C.BuscarFicharioSQL(Txt_Codigo.Text, "Cliente");
 
                     if (C == null)
                     {
@@ -473,7 +477,7 @@ namespace CursoWindowsForms
             try
             {
                 Cliente.Unit C = new Cliente.Unit();
-                var ListaBusca = C.BuscarFicharioDBTodosDB("Cliente");
+                var ListaBusca = C.BuscarFicharioDBTodosSQL("Cliente");
                 Frm_Busca FForm = new Frm_Busca(ListaBusca);
                 FForm.ShowDialog();
                 if (FForm.DialogResult == DialogResult.OK)
