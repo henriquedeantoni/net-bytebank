@@ -421,6 +421,58 @@ namespace CursoWindowsFormsBiblioteca.Classes
 
 
             #endregion
+
+            #region "CRUD do Fichario DB SQL SERVER Relacional"
+
+            #region "Funções Auxiliares"
+
+            public string ToInsert()
+            {
+                string SQL;
+
+                SQL = @"INSERT INTO TB_Cliente
+                        (Id,
+                        Nome,
+                        NomePai,
+                        NomeMae,
+                        NaoTemPai,
+                        Cpf,
+                        Genero,
+                        Cep,
+                        Logradouro,
+                        Complemento,
+                        Bairro,
+                        Cidade,
+                        Estado,
+                        Telefone,
+                        Profissao,
+                        RendaFamiliar) 
+                        VALUES";
+
+                SQL += "('" + this.Id + "'";
+                SQL += ",'" + this.Nome + "'";
+                SQL += ",'" + this.NomePai + "'";
+                SQL += ",'" + this.NomeMae + "'";
+                SQL += "," + Convert.ToString(this.NaoTemPai) + "";
+                SQL += ",'" + this.Cpf + "'";
+                SQL += "," + Convert.ToString(this.Genero) + "";
+                SQL += ",'" + this.Cep + "'";
+                SQL += ",'" + this.Logradouro + "'";
+                SQL += ",'" + this.Complemento + "'";
+                SQL += ",'" + this.Bairro + "'";
+                SQL += ",'" + this.Cidade + "'";
+                SQL += ",'" + this.Estado + "'";
+                SQL += ",'" + this.Telefone + "'";
+                SQL += ",'" + this.Profissao + "'";
+                SQL += "," + Convert.ToString(this.RendaFamiliar) + ");";
+
+                return SQL;
+                }
+
+
+            #endregion
+
+            #endregion
         }
         public class List
         {
