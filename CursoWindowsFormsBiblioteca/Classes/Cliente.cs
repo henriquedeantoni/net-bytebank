@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using System.ComponentModel.DataAnnotations;
 using Newtonsoft.Json;
 using CursoWindowsFormsBiblioteca.Databases;
+using System.Data;
 
 namespace CursoWindowsFormsBiblioteca.Classes
 {
@@ -29,7 +30,7 @@ namespace CursoWindowsFormsBiblioteca.Classes
             [StringLength(50, ErrorMessage = "Nome da Mãe deve ter no máximo 50 caracteres.")]
             public string NomeMae { get; set; }
 
-            public bool NaoTemPai { get; set; }
+            public int NaoTemPai { get; set; }
 
             [Required(ErrorMessage = "CPF obrigatório.")]
             [RegularExpression("([0-9]+)", ErrorMessage = "CPF somente aceita valores numéricos.")]
@@ -97,7 +98,7 @@ namespace CursoWindowsFormsBiblioteca.Classes
                 {
                     throw new Exception("Nome do Pai e da Mãe não podem ser iguais.");
                 }
-                if (this.NaoTemPai == false)
+                if (this.NaoTemPai == 0)
                 {
                     if (this.NomePai == "")
                     {
@@ -495,6 +496,27 @@ namespace CursoWindowsFormsBiblioteca.Classes
                 SQL += "WHERE Id = '"+ Id +"';";
 
                 return SQL;
+            }
+
+            public Unit DataRowToUnit (DataRow dr)
+            {
+                Unit u = new Unit();
+
+                u.Id = dr["Id"].ToString();
+                u.Nome = dr["Id"].ToString();
+                u.NomePai = dr["NomePai"].ToString();
+                u.NomeMae = dr["NomeMae"].ToString();
+                u.NaoTemPai = Convert.ToInt32(dr["NaoTemPai"]);
+                u.Cpf = dr["Cpf"].ToString();
+                u.Logradouro = dr["Logradouro"].ToString();
+                u.Complemento = dr["Complemento"].ToString();
+                u.Bairro = dr["Cidade"].ToString();
+                u.Estado = dr["Estado"].ToString();
+                u.Telefone = dr["Telefone"].ToString();
+                u.Profissao = dr["Profissao"].ToString();
+                u.RendaFamiliar = Convert.ToDouble((dr["RendaFamiliar"]));
+
+                return u;
             }
 
 
