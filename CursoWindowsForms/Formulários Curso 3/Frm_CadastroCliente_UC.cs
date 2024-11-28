@@ -331,11 +331,11 @@ namespace CursoWindowsForms
             C.NomePai = Txt_NomePai.Text;
             if (Chk_TemPai.Checked)
             {
-                C.NaoTemPai = true;
+                C.NaoTemPai = 1;
             }
             else
             {
-                C.NaoTemPai = false;
+                C.NaoTemPai = 0;
             }
             if (Rdb_Masculino.Checked)
             {
@@ -391,7 +391,7 @@ namespace CursoWindowsForms
             Txt_NomeCliente.Text = C.Nome;
             Txt_NomeMae.Text  = C.NomeMae;
             
-            if (C.NaoTemPai == true)
+            if (C.NaoTemPai == 1)
             {
                 Chk_TemPai.Checked = true;
                 Txt_NomePai.Text = "";
