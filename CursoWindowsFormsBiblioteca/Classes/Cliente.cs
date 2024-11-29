@@ -444,6 +444,55 @@ namespace CursoWindowsFormsBiblioteca.Classes
                 }
             }
 
+            public Unit BuscarFicharioSQL(string Id)
+            {
+                try
+                {
+                    string SQL = " SELECT * FROM [TB_Cliente] WHERE Id = '" + Id + "' ";
+                    var db = new SQLServerClass();
+                    var Dt = db.SQLQuery(SQL);
+                    if (Dt.Rows.Count == 0)
+                    {
+                        db.Close ();
+                        throw new Exception("Identificador não existente" + Id);
+                    }
+                    else
+                    {
+                        Unit u = this.DataRowToUnit(Dt.Rows[0]);
+                        return u;
+                    }
+                }
+                catch (Exception ex)
+                {
+                    throw new Exception ("Erro ao buscar conteudo do identificador: " + ex.Message);
+                }
+            }
+
+            public void AlterarFicharioSQLREL(string Id)
+            {
+                try
+                {
+                    string SQL = " SELECT * FROM [TB_Cliente] WHERE Id = '" + Id + "' ";
+                    var db = new SQLServerClass();
+                    var Dt = db.SQLQuery(SQL);
+                    if (Dt.Rows.Count == 0)
+                    {
+                        db.Close();
+                        throw new Exception("Identificador não existente" + Id);
+                    }
+                    else
+                    {
+                        SQL = this.ToUpdate(this.Id);
+                        db.SQLCommand(SQL);
+                        db.Close();
+                    }
+                }
+                catch (Exception ex)
+                {
+                    throw new Exception("Erro ao alterar o conteudo do identificador: " + ex.Message);
+                }
+            }
+
             public string ToInsert()
             {
                 string SQL;
