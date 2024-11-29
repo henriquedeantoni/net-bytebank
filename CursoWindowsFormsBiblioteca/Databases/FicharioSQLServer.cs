@@ -11,14 +11,14 @@ namespace CursoWindowsFormsBiblioteca.Databases
         public string mensagem;
         public bool status;
         public string tabela;
-        public SQLServerClass_ db;
+        public SQLServerClass db;
 
         public FicharioSQLServer(string Tabela)
         {
             status = true;
             try
             {
-                db = new SQLServerClass_();
+                db = new SQLServerClass();
                 tabela = Tabela;
                 mensagem = "Conexão com a Tabela criada com sucesso";
             }
