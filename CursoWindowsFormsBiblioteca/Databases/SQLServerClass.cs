@@ -9,12 +9,12 @@ using System.Configuration;
 
 namespace CursoWindowsFormsBiblioteca.Databases
 {
-    public class SQLServerClass_
+    public class SQLServerClass
     {
         public string stringConn;
         public SqlConnection connDB;
 
-        public SQLServerClass_()
+        public SQLServerClass()
         {
             try
             {

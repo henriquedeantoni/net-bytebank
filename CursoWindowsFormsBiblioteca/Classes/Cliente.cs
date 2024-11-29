@@ -427,6 +427,23 @@ namespace CursoWindowsFormsBiblioteca.Classes
 
             #region "Funções Auxiliares"
 
+            public void IncluirFicharioSQLREL()
+            {
+                try
+                {
+                    string SQL;
+                    SQL = this.ToInsert();
+                    var db = new SQLServerClass();
+                    db.SQLCommand(SQL);
+                    db.Close(); 
+
+                }
+                catch(Exception ex)
+                {
+                    throw new Exception ("Inclusão não permitida. Identificador: " + this.Id + ", erro: "+ex.Message);
+                }
+            }
+
             public string ToInsert()
             {
                 string SQL;
