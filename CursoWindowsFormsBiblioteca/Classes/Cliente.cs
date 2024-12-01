@@ -444,7 +444,7 @@ namespace CursoWindowsFormsBiblioteca.Classes
                 }
             }
 
-            public Unit BuscarFicharioSQL(string Id)
+            public Unit BuscarFicharioSQLREL(string Id)
             {
                 try
                 {
@@ -490,6 +490,51 @@ namespace CursoWindowsFormsBiblioteca.Classes
                 catch (Exception ex)
                 {
                     throw new Exception("Erro ao alterar o conteudo do identificador: " + ex.Message);
+                }
+            }
+
+            public void ApagarFicharioSQLREL(string conexao)
+            {
+                try
+                {
+                    string SQL = " SELECT * FROM [TB_Cliente] WHERE Id = '" + this.Id + "' ";
+                    var db = new SQLServerClass();
+                    var Dt = db.SQLQuery(SQL);
+                    if (Dt.Rows.Count == 0)
+                    {
+                        db.Close();
+                        throw new Exception("Identificador não existente" + Id);
+                    }
+                    else
+                    {
+                        SQL = "DELETE FROM TB_Cliente WHERE Id = '" + this.Id + "'";
+                        db.SQLCommand(SQL);
+                        db.Close();
+                    }
+                }
+                catch (Exception ex)
+                {
+                    throw new Exception("Erro ao alterar o conteudo do identificador: " + ex.Message);
+                }
+            }
+
+            public List<List<string>> BuscarFicharioDBTodosSQLREL(string conexao)
+            {
+                List<List<string>> ListaBusca = new List<List<string>>();
+                try
+                {
+                    var SQL = "SELECT * FROM TB_Cliente";
+                    var db = new SQLServerClass();
+                    var Dt = db.SQLQuery(SQL);
+                    for(int i=0; i<Dt.Rows.Count; i++)
+                    {
+                        ListaBusca.Add(new List<string> { Dt.Rows[i]["Id"].ToString(), Dt.Rows[i]["Nome"].ToString()});
+                    }
+                    return ListaBusca;
+                }
+                catch (Exception ex)
+                {
+                    throw new Exception("Conexão com a base ocasionou um erro: " + ex.Message);
                 }
             }
 
@@ -564,7 +609,8 @@ namespace CursoWindowsFormsBiblioteca.Classes
                 return SQL;
             }
 
-            public Unit DataRowToUnit (DataRow dr)
+
+            public Unit DataRowToUnit(DataRow dr)
             {
                 Unit u = new Unit();
 
