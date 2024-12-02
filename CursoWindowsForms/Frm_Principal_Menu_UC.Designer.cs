@@ -51,6 +51,7 @@
             this.windowsToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.Tbc_Aplicacoes = new System.Windows.Forms.TabControl();
             this.Iml_Imagens = new System.Windows.Forms.ImageList(this.components);
+            this.agenciaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.Mnu_Principal.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -186,7 +187,8 @@
             // cadastrosToolStripMenuItem
             // 
             this.cadastrosToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.clientesToolStripMenuItem});
+            this.clientesToolStripMenuItem,
+            this.agenciaToolStripMenuItem});
             this.cadastrosToolStripMenuItem.Image = global::CursoWindowsForms.Properties.Resources.Cadastros;
             this.cadastrosToolStripMenuItem.Name = "cadastrosToolStripMenuItem";
             this.cadastrosToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
@@ -245,6 +247,14 @@
             this.Iml_Imagens.Images.SetKeyName(6, "icons8-live-folder-80.png");
             this.Iml_Imagens.Images.SetKeyName(7, "user.png");
             // 
+            // agenciaToolStripMenuItem
+            // 
+            this.agenciaToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("agenciaToolStripMenuItem.Image")));
+            this.agenciaToolStripMenuItem.Name = "agenciaToolStripMenuItem";
+            this.agenciaToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.agenciaToolStripMenuItem.Text = "Agência";
+            this.agenciaToolStripMenuItem.Click += new System.EventHandler(this.agenciaToolStripMenuItem_Click);
+            // 
             // Frm_Principal_Menu_UC
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -287,5 +297,6 @@
         private System.Windows.Forms.ToolStripMenuItem byteBankToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem cadastrosToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem clientesToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem agenciaToolStripMenuItem;
     }
 }
