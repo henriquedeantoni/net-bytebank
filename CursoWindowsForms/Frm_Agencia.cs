@@ -15,6 +15,13 @@ namespace CursoWindowsForms
         public Frm_Agencia()
         {
             InitializeComponent();
+            this.Text = "Cadastro de Agencia";
+            Tls_Principal.Items[0].ToolTipText = "Fechara caixa de diálogo";
+        }
+
+        private void ApagatoolStripButton_Click(object sender, EventArgs e)
+        {
+            this.Close();
         }
     }
 }

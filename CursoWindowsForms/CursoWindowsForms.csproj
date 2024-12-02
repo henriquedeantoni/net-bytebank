@@ -256,6 +256,9 @@
     <EmbeddedResource Include="Formulários Curso 3\Frm_MouseEventos.resx">
       <DependentUpon>Frm_MouseEventos.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Agencia.resx">
+      <DependentUpon>Frm_Agencia.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Frm_Busca.resx">
       <DependentUpon>Frm_Busca.cs</DependentUpon>
     </EmbeddedResource>
