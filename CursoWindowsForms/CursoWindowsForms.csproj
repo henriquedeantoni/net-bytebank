@@ -155,6 +155,12 @@
     <Compile Include="Formulários Curso 3\Frm_MouseEventos.Designer.cs">
       <DependentUpon>Frm_MouseEventos.cs</DependentUpon>
     </Compile>
+    <Compile Include="Frm_Agencia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Agencia.Designer.cs">
+      <DependentUpon>Frm_Agencia.cs</DependentUpon>
+    </Compile>
     <Compile Include="Frm_Busca.cs">
       <SubType>Form</SubType>
     </Compile>

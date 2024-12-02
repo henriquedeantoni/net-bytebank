@@ -19,8 +19,8 @@ namespace CursoWindowsFormsBiblioteca.Databases
             try
             {
 
-                stringConn = ConfigurationManager.ConnectionStrings["Fichario"].ConnectionString;
-                //stringConn = "Data Source=DESKTOP-CKRGPSF;Initial Catalog=ByteBank;Integrated Security=True";
+                //stringConn = ConfigurationManager.ConnectionStrings["Fichario"].ConnectionString;
+                stringConn = "Data Source=DESKTOP-CKRGPSF;Initial Catalog=ByteBank;Integrated Security=True";
                 connDB = new SqlConnection(stringConn);
                 connDB.Open();
             }

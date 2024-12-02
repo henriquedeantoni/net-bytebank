@@ -468,7 +468,7 @@ namespace CursoWindowsFormsBiblioteca.Classes
                 }
             }
 
-            public void AlterarFicharioSQLREL(string Id)
+            public void AlterarFicharioSQLREL()
             {
                 try
                 {
@@ -493,7 +493,7 @@ namespace CursoWindowsFormsBiblioteca.Classes
                 }
             }
 
-            public void ApagarFicharioSQLREL(string conexao)
+            public void ApagarFicharioSQLREL()
             {
                 try
                 {
@@ -518,7 +518,7 @@ namespace CursoWindowsFormsBiblioteca.Classes
                 }
             }
 
-            public List<List<string>> BuscarFicharioDBTodosSQLREL(string conexao)
+            public List<List<string>> BuscarFicharioDBTodosSQLREL()
             {
                 List<List<string>> ListaBusca = new List<List<string>>();
                 try
@@ -615,14 +615,16 @@ namespace CursoWindowsFormsBiblioteca.Classes
                 Unit u = new Unit();
 
                 u.Id = dr["Id"].ToString();
-                u.Nome = dr["Id"].ToString();
+                u.Nome = dr["Nome"].ToString();
                 u.NomePai = dr["NomePai"].ToString();
                 u.NomeMae = dr["NomeMae"].ToString();
                 u.NaoTemPai = Convert.ToInt32(dr["NaoTemPai"]);
                 u.Cpf = dr["Cpf"].ToString();
+                u.Cep = dr["Cep"].ToString();
                 u.Logradouro = dr["Logradouro"].ToString();
                 u.Complemento = dr["Complemento"].ToString();
-                u.Bairro = dr["Cidade"].ToString();
+                u.Cidade = dr["Cidade"].ToString();
+                u.Bairro = dr["Bairro"].ToString();
                 u.Estado = dr["Estado"].ToString();
                 u.Telefone = dr["Telefone"].ToString();
                 u.Profissao = dr["Profissao"].ToString();
