@@ -7,8 +7,8 @@
       "RelativeMoniker": "D:0:0:{D619DEB3-F971-4C2D-97A3-F62E9D5681AC}|CursoWindowsFormsBiblioteca\\CursoWindowsFormsBiblioteca.csproj|solutionrelative:cursowindowsformsbiblioteca\\classes\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D619DEB3-F971-4C2D-97A3-F62E9D5681AC}|CursoWindowsFormsBiblioteca\\CursoWindowsFormsBiblioteca.csproj|c:\\users\\henrique\\documents\\cursonet\\alura\\forms\\cursowinforms\\modulo6\\final\\cursowindowsformsbiblioteca\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{D619DEB3-F971-4C2D-97A3-F62E9D5681AC}|CursoWindowsFormsBiblioteca\\CursoWindowsFormsBiblioteca.csproj|solutionrelative:cursowindowsformsbiblioteca\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{D619DEB3-F971-4C2D-97A3-F62E9D5681AC}|CursoWindowsFormsBiblioteca\\CursoWindowsFormsBiblioteca.csproj|c:\\users\\henrique\\documents\\cursonet\\alura\\forms\\cursowinforms\\modulo6\\final\\cursowindowsformsbiblioteca\\databases\\sqlserverclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D619DEB3-F971-4C2D-97A3-F62E9D5681AC}|CursoWindowsFormsBiblioteca\\CursoWindowsFormsBiblioteca.csproj|solutionrelative:cursowindowsformsbiblioteca\\databases\\sqlserverclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D619DEB3-F971-4C2D-97A3-F62E9D5681AC}|CursoWindowsFormsBiblioteca\\CursoWindowsFormsBiblioteca.csproj|C:\\Users\\Henrique\\Documents\\CursoNET\\Alura\\Forms\\CursoWinForms\\Modulo6\\final\\cursowindowsformsbiblioteca\\databases\\fichariosqlserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,6 +17,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{D3FBCDA9-1C65-4B25-A82B-E21E69C473C0}|CursoWindowsForms\\CursoWindowsForms.csproj|C:\\Users\\Henrique\\Documents\\CursoNET\\Alura\\Forms\\CursoWinForms\\Modulo6\\final\\cursowindowsforms\\formul\u00E1rios curso 3\\frm_cadastrocliente_uc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D3FBCDA9-1C65-4B25-A82B-E21E69C473C0}|CursoWindowsForms\\CursoWindowsForms.csproj|solutionrelative:cursowindowsforms\\formul\u00E1rios curso 3\\frm_cadastrocliente_uc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D619DEB3-F971-4C2D-97A3-F62E9D5681AC}|CursoWindowsFormsBiblioteca\\CursoWindowsFormsBiblioteca.csproj|c:\\users\\henrique\\documents\\cursonet\\alura\\forms\\cursowinforms\\modulo6\\final\\cursowindowsformsbiblioteca\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D619DEB3-F971-4C2D-97A3-F62E9D5681AC}|CursoWindowsFormsBiblioteca\\CursoWindowsFormsBiblioteca.csproj|solutionrelative:cursowindowsformsbiblioteca\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D619DEB3-F971-4C2D-97A3-F62E9D5681AC}|CursoWindowsFormsBiblioteca\\CursoWindowsFormsBiblioteca.csproj|C:\\Users\\Henrique\\Documents\\CursoNET\\Alura\\Forms\\CursoWinForms\\Modulo6\\final\\cursowindowsformsbiblioteca\\databases\\fichario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -57,8 +61,17 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SQLServerClass.cs",
+              "DocumentMoniker": "C:\\Users\\Henrique\\Documents\\CursoNET\\Alura\\Forms\\CursoWinForms\\Modulo6\\final\\CursoWindowsFormsBiblioteca\\Databases\\SQLServerClass.cs",
+              "RelativeDocumentMoniker": "CursoWindowsFormsBiblioteca\\Databases\\SQLServerClass.cs",
+              "ToolTip": "C:\\Users\\Henrique\\Documents\\CursoNET\\Alura\\Forms\\CursoWinForms\\Modulo6\\final\\CursoWindowsFormsBiblioteca\\Databases\\SQLServerClass.cs",
+              "RelativeToolTip": "CursoWindowsFormsBiblioteca\\Databases\\SQLServerClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T15:26:31.031Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -68,14 +81,31 @@
               "RelativeDocumentMoniker": "CursoWindowsFormsBiblioteca\\Classes\\Cliente.cs",
               "ToolTip": "C:\\Users\\Henrique\\Documents\\CursoNET\\Alura\\Forms\\CursoWinForms\\Modulo6\\final\\CursoWindowsFormsBiblioteca\\Classes\\Cliente.cs",
               "RelativeToolTip": "CursoWindowsFormsBiblioteca\\Classes\\Cliente.cs",
-              "ViewState": "AgIAAPwBAAAAAAAAAAAgwBkCAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAB8CAAAAAAAAAAAnwHICAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-15T18:31:03.811Z",
               "EditorCaption": ""
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
+              "Title": "Frm_CadastroCliente_UC.cs",
+              "DocumentMoniker": "C:\\Users\\Henrique\\Documents\\CursoNET\\Alura\\Forms\\CursoWinForms\\Modulo6\\final\\CursoWindowsForms\\Formul\u00E1rios Curso 3\\Frm_CadastroCliente_UC.cs",
+              "RelativeDocumentMoniker": "CursoWindowsForms\\Formul\u00E1rios Curso 3\\Frm_CadastroCliente_UC.cs",
+              "ToolTip": "C:\\Users\\Henrique\\Documents\\CursoNET\\Alura\\Forms\\CursoWinForms\\Modulo6\\final\\CursoWindowsForms\\Formul\u00E1rios Curso 3\\Frm_CadastroCliente_UC.cs",
+              "RelativeToolTip": "CursoWindowsForms\\Formul\u00E1rios Curso 3\\Frm_CadastroCliente_UC.cs",
+              "ViewState": "AgIAANIBAAAAAAAAAAAAAPEBAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T10:22:46.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Fichario.cs",
               "DocumentMoniker": "C:\\Users\\Henrique\\Documents\\CursoNET\\Alura\\Forms\\CursoWinForms\\Modulo6\\final\\CursoWindowsFormsBiblioteca\\Databases\\Fichario.cs",
               "RelativeDocumentMoniker": "CursoWindowsFormsBiblioteca\\Databases\\Fichario.cs",
@@ -88,7 +118,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "packages.config",
               "DocumentMoniker": "C:\\Users\\Henrique\\Documents\\CursoNET\\Alura\\Forms\\CursoWinForms\\Modulo6\\final\\CursoWindowsFormsBiblioteca\\packages.config",
               "RelativeDocumentMoniker": "CursoWindowsFormsBiblioteca\\packages.config",
@@ -101,7 +131,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "FicharioDB.cs",
               "DocumentMoniker": "C:\\Users\\Henrique\\Documents\\CursoNET\\Alura\\Forms\\CursoWinForms\\Modulo6\\final\\CursoWindowsFormsBiblioteca\\Databases\\FicharioDB.cs",
               "RelativeDocumentMoniker": "CursoWindowsFormsBiblioteca\\Databases\\FicharioDB.cs",
@@ -113,7 +143,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "app.config",
               "DocumentMoniker": "C:\\Users\\Henrique\\Documents\\CursoNET\\Alura\\Forms\\CursoWinForms\\Modulo6\\final\\CursoWindowsFormsBiblioteca\\app.config",
               "RelativeDocumentMoniker": "CursoWindowsFormsBiblioteca\\app.config",
@@ -122,19 +152,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
               "WhenOpened": "2024-11-25T04:12:44.364Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Frm_CadastroCliente_UC.cs",
-              "DocumentMoniker": "C:\\Users\\Henrique\\Documents\\CursoNET\\Alura\\Forms\\CursoWinForms\\Modulo6\\final\\CursoWindowsForms\\Formul\u00E1rios Curso 3\\Frm_CadastroCliente_UC.cs",
-              "RelativeDocumentMoniker": "CursoWindowsForms\\Formul\u00E1rios Curso 3\\Frm_CadastroCliente_UC.cs",
-              "ToolTip": "C:\\Users\\Henrique\\Documents\\CursoNET\\Alura\\Forms\\CursoWinForms\\Modulo6\\final\\CursoWindowsForms\\Formul\u00E1rios Curso 3\\Frm_CadastroCliente_UC.cs",
-              "RelativeToolTip": "CursoWindowsForms\\Formul\u00E1rios Curso 3\\Frm_CadastroCliente_UC.cs",
-              "ViewState": "AgIAAHYBAAAAAAAAAAAhwIkBAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T10:22:46.08Z",
               "EditorCaption": ""
             },
             {
@@ -152,7 +169,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "LocalDBClass.cs",
               "DocumentMoniker": "C:\\Users\\Henrique\\Documents\\CursoNET\\Alura\\Forms\\CursoWinForms\\Modulo6\\final\\CursoWindowsFormsBiblioteca\\Databases\\LocalDBClass.cs",
               "RelativeDocumentMoniker": "CursoWindowsFormsBiblioteca\\Databases\\LocalDBClass.cs",
@@ -164,7 +181,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "App.config",
               "DocumentMoniker": "C:\\Users\\Henrique\\Documents\\CursoNET\\Alura\\Forms\\CursoWinForms\\Modulo6\\final\\CursoWindowsForms\\App.config",
               "RelativeDocumentMoniker": "CursoWindowsForms\\App.config",
@@ -177,7 +194,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Henrique\\Documents\\CursoNET\\Alura\\Forms\\CursoWinForms\\Modulo6\\final\\CursoWindowsForms\\Program.cs",
               "RelativeDocumentMoniker": "CursoWindowsForms\\Program.cs",
@@ -189,7 +206,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Frm_CadastroCliente_UC.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Henrique\\Documents\\CursoNET\\Alura\\Forms\\CursoWinForms\\Modulo6\\final\\CursoWindowsForms\\Formul\u00E1rios Curso 3\\Frm_CadastroCliente_UC.cs",
               "RelativeDocumentMoniker": "CursoWindowsForms\\Formul\u00E1rios Curso 3\\Frm_CadastroCliente_UC.cs",
