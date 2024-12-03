@@ -54,6 +54,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ByteBankDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ByteBankDataSet.xsd</DependentUpon>
+    </Compile>
     <Compile Include="FicharioDataSet.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -305,6 +310,17 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
+    <None Include="ByteBankDataSet.xsc">
+      <DependentUpon>ByteBankDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="ByteBankDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ByteBankDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ByteBankDataSet.xss">
+      <DependentUpon>ByteBankDataSet.xsd</DependentUpon>
+    </None>
     <None Include="FicharioDataSet.xsc">
       <DependentUpon>FicharioDataSet.xsd</DependentUpon>
     </None>

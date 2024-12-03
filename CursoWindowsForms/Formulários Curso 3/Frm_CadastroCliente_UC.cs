@@ -79,6 +79,7 @@ namespace CursoWindowsForms
             Tls_Principal.Items[4].ToolTipText = "Limpa dados da tela de entrada de dados";
 
             Btn_Busca.Text = "Buscar";
+            Grp_DataGrid.Text = "Clientes";
 
             LimparFormulario();
 
@@ -544,6 +545,29 @@ namespace CursoWindowsForms
                 MessageBox.Show("ERR: " + F.mensagem, "ByteBank", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }*/
 
+        }
+
+        private void AtualizaGrid()
+        {
+            try
+            {
+                Cliente.Unit C = new Cliente.Unit();
+                //var ListaBusca = C.BuscarFicharioDBTodosDB("Cliente");
+                //var ListaBusca = C.BuscarFicharioDBTodosSQL("Cliente");
+                var ListaBusca = C.BuscarFicharioDBTodosSQLREL();
+                for(int i = 0; i < ListaBusca.Count-1; i++)
+                {
+                    DataGridViewRow row = new DataGridViewRow();
+                    row.CreateCells(Dg_Clientes);
+                    row.Cells[0].Value = ListaBusca[i][0].ToString();
+                    row.Cells[1].Value = ListaBusca[i][1].ToString();
+                    Dg_Clientes.Rows.Add(row);
+                }
+            }
+            catch (Exception Ex)
+            {
+                MessageBox.Show(Ex.Message, "ByteBank", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
         }
 
         private void Frm_CadastroCliente_UC_Load(object sender, EventArgs e)
