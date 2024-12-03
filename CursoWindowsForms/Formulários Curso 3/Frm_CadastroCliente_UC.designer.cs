@@ -75,11 +75,11 @@
             this.LimpartoolStripButton = new System.Windows.Forms.ToolStripButton();
             this.Grp_DataGrid = new System.Windows.Forms.GroupBox();
             this.Dg_Clientes = new System.Windows.Forms.DataGridView();
+            this.Id = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Nome = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.byteBankDataSet = new CursoWindowsForms.ByteBankDataSet();
             this.tBClienteBindingSource = new System.Windows.Forms.BindingSource(this.components);
             this.tB_ClienteTableAdapter = new CursoWindowsForms.ByteBankDataSetTableAdapters.TB_ClienteTableAdapter();
-            this.Id = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Nome = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Grp_Codigo.SuspendLayout();
             this.Grp_DadosPessoais.SuspendLayout();
             this.Grp_Genero.SuspendLayout();
@@ -539,10 +539,26 @@
             this.Nome});
             this.Dg_Clientes.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Dg_Clientes.Location = new System.Drawing.Point(3, 16);
+            this.Dg_Clientes.MultiSelect = false;
             this.Dg_Clientes.Name = "Dg_Clientes";
             this.Dg_Clientes.ReadOnly = true;
+            this.Dg_Clientes.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
             this.Dg_Clientes.Size = new System.Drawing.Size(428, 442);
             this.Dg_Clientes.TabIndex = 0;
+            this.Dg_Clientes.DoubleClick += new System.EventHandler(this.Dg_Clientes_DoubleClick);
+            // 
+            // Id
+            // 
+            this.Id.HeaderText = "Código Cliente";
+            this.Id.Name = "Id";
+            this.Id.ReadOnly = true;
+            // 
+            // Nome
+            // 
+            this.Nome.HeaderText = "Nome do Cliente";
+            this.Nome.Name = "Nome";
+            this.Nome.ReadOnly = true;
+            this.Nome.Width = 250;
             // 
             // byteBankDataSet
             // 
@@ -557,19 +573,6 @@
             // tB_ClienteTableAdapter
             // 
             this.tB_ClienteTableAdapter.ClearBeforeFill = true;
-            // 
-            // Id
-            // 
-            this.Id.HeaderText = "Código Cliente";
-            this.Id.Name = "Id";
-            this.Id.ReadOnly = true;
-            // 
-            // Nome
-            // 
-            this.Nome.HeaderText = "Nome do Cliente";
-            this.Nome.Name = "Nome";
-            this.Nome.ReadOnly = true;
-            this.Nome.Width = 250;
             // 
             // Frm_CadastroCliente_UC
             // 

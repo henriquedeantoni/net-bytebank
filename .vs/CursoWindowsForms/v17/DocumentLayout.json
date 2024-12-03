@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\Henrique\\Documents\\CursoNET\\Alura\\Forms\\CursoWinForms\\Modulo6\\final\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D3FBCDA9-1C65-4B25-A82B-E21E69C473C0}|CursoWindowsForms\\CursoWindowsForms.csproj|C:\\Users\\Henrique\\Documents\\CursoNET\\Alura\\Forms\\CursoWinForms\\Modulo6\\final\\cursowindowsforms\\formul\u00E1rios curso 3\\frm_cadastrocliente_uc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D3FBCDA9-1C65-4B25-A82B-E21E69C473C0}|CursoWindowsForms\\CursoWindowsForms.csproj|c:\\users\\henrique\\documents\\cursonet\\alura\\forms\\cursowinforms\\modulo6\\final\\cursowindowsforms\\formul\u00E1rios curso 3\\frm_cadastrocliente_uc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D3FBCDA9-1C65-4B25-A82B-E21E69C473C0}|CursoWindowsForms\\CursoWindowsForms.csproj|solutionrelative:cursowindowsforms\\formul\u00E1rios curso 3\\frm_cadastrocliente_uc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -11,7 +11,7 @@
       "RelativeMoniker": "D:0:0:{D3FBCDA9-1C65-4B25-A82B-E21E69C473C0}|CursoWindowsForms\\CursoWindowsForms.csproj|solutionrelative:cursowindowsforms\\formul\u00E1rios curso 3\\frm_cadastrocliente_uc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3FBCDA9-1C65-4B25-A82B-E21E69C473C0}|CursoWindowsForms\\CursoWindowsForms.csproj|c:\\users\\henrique\\documents\\cursonet\\alura\\forms\\cursowinforms\\modulo6\\final\\cursowindowsforms\\frm_agencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{D3FBCDA9-1C65-4B25-A82B-E21E69C473C0}|CursoWindowsForms\\CursoWindowsForms.csproj|C:\\Users\\Henrique\\Documents\\CursoNET\\Alura\\Forms\\CursoWinForms\\Modulo6\\final\\cursowindowsforms\\frm_agencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{D3FBCDA9-1C65-4B25-A82B-E21E69C473C0}|CursoWindowsForms\\CursoWindowsForms.csproj|solutionrelative:cursowindowsforms\\frm_agencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -101,8 +101,7 @@
               "ToolTip": "C:\\Users\\Henrique\\Documents\\CursoNET\\Alura\\Forms\\CursoWinForms\\Modulo6\\final\\CursoWindowsForms\\Frm_Agencia.cs [Design]",
               "RelativeToolTip": "CursoWindowsForms\\Frm_Agencia.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T04:53:25.793Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-12-02T04:53:25.793Z"
             },
             {
               "$type": "Document",
@@ -183,7 +182,7 @@
               "RelativeDocumentMoniker": "CursoWindowsForms\\Formul\u00E1rios Curso 3\\Frm_CadastroCliente_UC.cs",
               "ToolTip": "C:\\Users\\Henrique\\Documents\\CursoNET\\Alura\\Forms\\CursoWinForms\\Modulo6\\final\\CursoWindowsForms\\Formul\u00E1rios Curso 3\\Frm_CadastroCliente_UC.cs",
               "RelativeToolTip": "CursoWindowsForms\\Formul\u00E1rios Curso 3\\Frm_CadastroCliente_UC.cs",
-              "ViewState": "AgIAACACAAAAAAAAAAAQwDMCAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAEcCAAAAAAAAAAAAAGQCAABkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-18T10:22:46.08Z",
               "EditorCaption": ""
